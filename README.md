@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm furkan tasci</h1>
+<h1 align="center">Hi 👋, I'm Furkan Tasci</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
 
 <h3 align="left">Connect with me:</h3>
